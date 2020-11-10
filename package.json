@@ -1,0 +1,42 @@
+{
+  "_from": "react-native-screenshot-detector",
+  "_id": "react-native-screenshot-detector@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-FfIfZvs87kKBG6dxbX31LZFMeKI=",
+  "_location": "/react-native-screenshot-detector",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-screenshot-detector",
+    "name": "react-native-screenshot-detector",
+    "escapedName": "react-native-screenshot-detector",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-screenshot-detector/-/react-native-screenshot-detector-1.0.0.tgz",
+  "_shasum": "15f21f66fb3cee42811ba7716d7df52d914c78a2",
+  "_spec": "react-native-screenshot-detector",
+  "_where": "/Users/AhmadYusri/ReactNativeProjects/BeSmartSchool",
+  "author": {
+    "name": "gcarling"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Note: this project is designed to work with the newer version of React Native library imports, i.e. React Native >= 0.40.0",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-screenshot-detector",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
