@@ -7,7 +7,7 @@ Note: this project is designed to work with the newer version of React Native li
 
 ## Getting started
 
-`$ npm install git://github.com/ahmadyusri/react-native-screenshot-detector.git#master --save`
+`$ npm install git://github.com/ahmadyusri/react-native-screenshot-detector.git#0.0.1 --save`
 
 `$ cd ios && pod install && cd ../`
 

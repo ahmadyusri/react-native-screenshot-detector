@@ -9,11 +9,11 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNScreenshotDetector - first incomplete Detector Screenshot solution for your React Native app
                    DESC
-  s.homepage     = "https://github.com/blend/react-native-screenshot-detector"
+  s.homepage     = "https://github.com/ahmadyusri/react-native-screenshot-detector"
   s.license      = "MIT"
   s.author       = { "author" => "ahmadyusri@bungkusteknologi.id" }
   s.platforms    = { :ios => "9.0", :tvos => "11.0" }
-  s.source       = { :git => "https://github.com/blend/react-native-screenshot-detector.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ahmadyusri/react-native-screenshot-detector.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m}"
   s.requires_arc = true
